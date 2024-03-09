@@ -1,6 +1,8 @@
 package com.momentumtrading.signals.service;
 
 import com.momentumtrading.signals.model.StockWrapper;
+import com.momentumtrading.signals.utils.HttpsSteps;
+import com.momentumtrading.signals.utils.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

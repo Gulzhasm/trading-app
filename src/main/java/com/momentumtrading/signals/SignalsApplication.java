@@ -9,5 +9,4 @@ public class SignalsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SignalsApplication.class, args);
 	}
-
 }
