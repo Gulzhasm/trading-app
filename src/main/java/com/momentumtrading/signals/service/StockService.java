@@ -7,8 +7,7 @@ import com.momentumtrading.signals.utils.Response;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import java.io.IOException;
-import java.util.List;
+
 
 @Service
 @AllArgsConstructor
